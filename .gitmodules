@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:Julien-Goletto/cinevoraces-back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Julien-Goletto/cinevoraces-front.git
